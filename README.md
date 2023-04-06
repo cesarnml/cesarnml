@@ -1,4 +1,4 @@
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=cesarnml&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=cesarnml&show_icons=true&theme=dracula)
 <br/>
 
 [![wakatime](https://wakatime.com/badge/user/8cdf5c6c-3f1a-41dc-8fb8-6264a155b0f4.svg)](https://wakatime.com/@8cdf5c6c-3f1a-41dc-8fb8-6264a155b0f4)
