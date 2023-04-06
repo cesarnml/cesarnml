@@ -3,6 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/8cdf5c6c-3f1a-41dc-8fb8-6264a155b0f4.svg)](https://wakatime.com/@8cdf5c6c-3f1a-41dc-8fb8-6264a155b0f4)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=cesarnml)
+[![codecov](https://codecov.io/gh/cesarnml/portfolio-sveltekit/branch/main/graph/badge.svg?token=1TU49QXWVN)](https://codecov.io/gh/cesarnml/portfolio-sveltekit)
 
 ### Hi there 👋
 
