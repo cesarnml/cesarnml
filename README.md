@@ -14,3 +14,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Did you know that a programmer's favorite hangout spot is the foo bar? It's where all the functions get called!
 
+### [Porfolio Coverage](https://github.com/cesarnml/portfolio-sveltekit)
+![portfolio coverage](https://codecov.io/gh/cesarnml/portfolio-sveltekit/branch/main/graphs/sunburst.svg?token=1TU49QXWVN)
