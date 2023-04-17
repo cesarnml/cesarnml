@@ -6,8 +6,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [portfolio](http://cesar-mejia.com)
-- 🌱 I’m currently learning Playwright and Testing Library
+- 🔭 I’m currently working on [wakastats](https://wakastats.vercel.app/)
+- 🌱 I’m currently learning Playwright, Testing Library and NextJS-13
 - 💬 Ask me about TypeScript, Python, NextJS, SvelteKit, Supabase
 - 📫 How to reach me: [@cesarnm](https://twitter.com/cesarnm)
 - 😄 Pronouns: he/him
@@ -19,3 +19,8 @@
 
 ![portfolio coverage](https://codecov.io/gh/cesarnml/portfolio-sveltekit/branch/main/graphs/sunburst.svg?token=1TU49QXWVN)
 
+### [WakaStats Coverage](https://github.com/cesarnml/waka-shortcut-time-stats)
+
+[![codecov](https://codecov.io/gh/cesarnml/waka-shortcut-time-stats/branch/main/graph/badge.svg?token=wyQL5kG765)](https://codecov.io/gh/cesarnml/waka-shortcut-time-stats)
+
+![wakastats coverage](https://codecov.io/gh/cesarnml/waka-shortcut-time-stats/branch/main/graphs/sunburst.svg?token=wyQL5kG765)
