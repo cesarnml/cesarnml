@@ -1,3 +1,5 @@
+<a href="https://stackexchange.com/users/12891195"><img src="https://stackexchange.com/users/flair/12891195.png" width="208" height="58" alt="profile for Cesar N Mejia Leiva on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Cesar N Mejia Leiva on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=cesarnml&show_icons=true&theme=dracula)
 <br/>
 
