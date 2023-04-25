@@ -13,7 +13,7 @@
 - 💬 Ask me about TypeScript, Python, NextJS, SvelteKit, Supabase
 - 📫 How to reach me: [@cesarnm](https://twitter.com/cesarnm)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Did you know that a programmer's favorite hangout spot is the foo bar? It's where all the functions get called!
+- ⚡ Fun fact: Did you know why programmers don't like to go camping? ... They are afraid of running into bugs.
 
 ### [Porfolio Coverage](https://github.com/cesarnml/portfolio-sveltekit)
 
