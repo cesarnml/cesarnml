@@ -10,7 +10,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [wakastats](https://wakastats.vercel.app/)
+- 🔭 I’m currently working on [Coding Stats](https://wakastats.vercel.app/)
 - 🌱 I’m currently learning Playwright, Testing Library and NextJS-13
 - 💬 Ask me about TypeScript, Python, NextJS, SvelteKit, Supabase
 - 📫 How to reach me: [@cesarnm](https://twitter.com/cesarnm)
