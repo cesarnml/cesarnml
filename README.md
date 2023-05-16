@@ -10,7 +10,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Coding Stats](https://wakastats.vercel.app/)
+- 🔭 I’m currently working on [Coding Stats](https://codingstats.vercel.app/)
 - 🌱 I’m currently learning Playwright, Testing Library and NextJS-13
 - 💬 Ask me about TypeScript, Python, NextJS, SvelteKit, Supabase
 - 📫 How to reach me: [@cesarnm](https://twitter.com/cesarnm)
@@ -24,7 +24,7 @@
 
 ![portfolio coverage](https://codecov.io/gh/cesarnml/portfolio-sveltekit/branch/main/graphs/sunburst.svg?token=1TU49QXWVN)
 
-### [WakaStats Coverage](https://github.com/cesarnml/waka-shortcut-time-stats)
+### [Coding Stats Coverage](https://github.com/cesarnml/waka-shortcut-time-stats)
 
 [![wakatime](https://wakatime.com/badge/user/8cdf5c6c-3f1a-41dc-8fb8-6264a155b0f4/project/9baa0feb-4577-4145-8aee-35c0f554f351.svg)](https://wakatime.com/badge/user/8cdf5c6c-3f1a-41dc-8fb8-6264a155b0f4/project/9baa0feb-4577-4145-8aee-35c0f554f351)
 [![codecov](https://codecov.io/gh/cesarnml/waka-shortcut-time-stats/branch/main/graph/badge.svg?token=wyQL5kG765)](https://codecov.io/gh/cesarnml/waka-shortcut-time-stats)
