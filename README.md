@@ -15,7 +15,7 @@
 - 💬 Ask me about TypeScript, Python, NextJS, SvelteKit, Supabase
 - 📫 How to reach me: [@cesarnm](https://twitter.com/cesarnm)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Did you know why programmers don't like to go camping? ... They are afraid of running into bugs.
+- ⚡ Fun fact: Do you know why programmers don't like to go camping? ... They're afraid of running into bugs. 🤣
 
 ### [Porfolio Coverage](https://github.com/cesarnml/portfolio-sveltekit)
 
