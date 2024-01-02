@@ -5,8 +5,6 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=cesarnml)
 [![wakatime](https://wakatime.com/badge/user/8cdf5c6c-3f1a-41dc-8fb8-6264a155b0f4.svg)](https://wakatime.com/@8cdf5c6c-3f1a-41dc-8fb8-6264a155b0f4)
-[![Status for @cesarnml](https://badge.stateful.com/cesarnml/status.svg)](https://app.stateful.com/@cesarnml)
-[![Status for @cesarnml](https://badge.stateful.com/cesarnml/dnd.svg)](https://app.stateful.com/@cesarnml)
 
 ### Hi there 👋
 
