@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Coding Stats](https://codingstats.vercel.app/) - Visualize, track and improve your coding metrics!
 - 🌱 I’m currently mastering Playwright, Testing Library, Astro, and NextJS-14
-- 👨‍💻 4-years of production experience with front-end development in remote-first, Agile team environment
+- 👨‍💻 4-years of production experience with front-end development in a remote-first, Agile team environment
 - 📕 Fan of constructive code-reviews and delivering products that exceed customer expectations
 - 💬 Ask me about TypeScript, Python, NextJS, SvelteKit, Supabase
 - 📫 How to reach me: [@cesarnm](https://twitter.com/cesarnm) or cesarnml@outlook.com
