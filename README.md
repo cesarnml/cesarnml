@@ -13,7 +13,6 @@
 - 👨‍💻 4-years of production experience with front-end development in a remote-first, Agile team environment
 - 📕 Fan of constructive code-reviews and delivering products that exceed customer expectations
 - 💬 Ask me about TypeScript, Python, NextJS, SvelteKit, Supabase
-- 📫 How to reach me: [@cesarnm](https://twitter.com/cesarnm) or cesarnml@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Do you know why programmers don't like to go camping? ... They're afraid of running into bugs. 🤣
 
